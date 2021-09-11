@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    /* ------------------------------- Root Settings ------------------------------- */
+  
+    /* Fluid font size from Utopia */
+    font-size: clamp(1rem, 0.9rem + 0.49vw, 1.25rem);
+    /* Safari Resize fix */
+    min-height: 1vw;
+}
