@@ -10,12 +10,11 @@ const { post } = Astro.props;
 <article class="pb-base">
   <header>
     <a href={post.url}><h1 class="text-3xl font-bold text-seafoam-700">{post.title}</h1></a>
-    <h3 class="text-lg">{dayjs(post.date).format('MMM D YYYY')}</h3>
+    <h3 class="text-lg text-gray-600">{dayjs(post.date).format('MMM D YYYY')}</h3>
   </header>
-  <main>
+  <div>
     <p>{post.description}</p>
-    <a href={post.url}>Read more</a>
-  </main>
+  </div>
 </article>
 
 <style>

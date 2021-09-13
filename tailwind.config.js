@@ -88,7 +88,19 @@ module.exports = {
     theme: {
         extend: {
             spacing: scale,
-            colors: colors
+            colors: colors,
+            typography: theme => ({
+              DEFAULT: {
+                  css: {
+                    a: {
+                      color: theme('colors.teal.600')
+                    },
+                    h2: {
+                      color: theme('colors.wine.700')
+                    }
+                  }
+              }
+            })
         }
     },
     plugins: [

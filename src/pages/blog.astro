@@ -9,7 +9,7 @@ import BlogPostPreview from '../components/BlogPostPreview.astro';
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
 let title = 'Colinaut Blog';
-let description = "Yee old blog";
+let description = "Ye old blog";
 let permalink = 'https://www.colinaut.com/blog';
 
 // Data Fetching: List all Markdown posts in the repo.
@@ -33,7 +33,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date)
       </div>
       <article class="px-6 py-md">
           <h1 class="text-4xl font-bold text-wine-700 mb-base">{title}</h1>
-          <div class="prose"><p>{description}</p></div>
+          <div class="prose"><p>Here are all the various blog posts going back to the first iteration of this site from 2006. There's a lot of old junk in there that you won't care about &mdash; <em>I certainly don't</em>. I'm not sure if I will update this blog much either. I'm mostly keeping the posts up for posterity sake.</p></div>
         <section class="my-base">
           {allPosts.map(p => <BlogPostPreview post={p} />)}
         </section>
