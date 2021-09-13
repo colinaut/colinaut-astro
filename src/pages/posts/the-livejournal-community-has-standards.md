@@ -26,7 +26,7 @@ post_format: []
 aktt_notify_twitter:
     - 'no'
 ---
-[![Pedophile playground](https://catcubed.com/wp-content/uploads/2007/05/108407wceb_w.thumbnail.jpg)](https://catcubed.com/wp-content/uploads/2007/05/108407wceb_w.jpg) For those of you too busy to keep abreast of the latest internet kurfluffle, the LiveJournal community has been in a bit of an uproar over the [mass deletion of journal accounts and communities](https://news.com.com/Mass+deletion+sparks+LiveJournal+revolt/2100-1025_3-6187619.html "CNET: Mass deletion sparks LiveJournal revolt"). It seems in the rush to “protect children” Barak Berkowitz, chairman and chief executive of Six Apart, got a bit carried away.
+[![Pedophile playground](/uploads/2007/05/108407wceb_w.thumbnail.jpg)](/uploads/2007/05/108407wceb_w.jpg) For those of you too busy to keep abreast of the latest internet kurfluffle, the LiveJournal community has been in a bit of an uproar over the [mass deletion of journal accounts and communities](https://news.com.com/Mass+deletion+sparks+LiveJournal+revolt/2100-1025_3-6187619.html "CNET: Mass deletion sparks LiveJournal revolt"). It seems in the rush to “protect children” Barak Berkowitz, chairman and chief executive of Six Apart, got a bit carried away.
 
 > “Our decision here was not based on pure legal issues. It was based on what community we want to build and what we think is appropriate within that community and what’s not.”  
 > –Barak Berkowitz, chairman and CEO, Six Apart
@@ -37,7 +37,7 @@ However, more unknown is the status of the gray area content such as the [slash 
 
 ### That danged first amendment… *or* Liberals have morals?
 
-[![Free Speech Area](https://catcubed.com/wp-content/uploads/2007/05/free-speech-area-273.thumbnail.jpg)](https://catcubed.com/wp-content/uploads/2007/05/free-speech-area-273.jpg)Here in lies the problem of course, not everyone shares my liberal ambivalence with slash fiction and other harmless fetishes. Obviously most [BoingBoing readers](https://www.boingboing.net/2007/05/31/livejournal6a_re_mas.html "LiveJournal/6A re: mass strikethrough - we screwed up.") do as evidence by this hard-line first amendment quote:
+[![Free Speech Area](/uploads/2007/05/free-speech-area-273.thumbnail.jpg)](/uploads/2007/05/free-speech-area-273.jpg)Here in lies the problem of course, not everyone shares my liberal ambivalence with slash fiction and other harmless fetishes. Obviously most [BoingBoing readers](https://www.boingboing.net/2007/05/31/livejournal6a_re_mas.html "LiveJournal/6A re: mass strikethrough - we screwed up.") do as evidence by this hard-line first amendment quote:
 
 > “So the only policy that’s safe from turning into tyranny is to allow all speech, no matter how uncomfortable it makes you. Yes, people could be harmed; yes, even children. Freedom is more important.”
 

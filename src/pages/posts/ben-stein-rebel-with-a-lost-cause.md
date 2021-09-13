@@ -20,7 +20,7 @@ tag:
     - skepticism
 post_format: []
 ---
-![Ben Stein‚Äôs Knees](https://catcubed.com/wp-content/uploads/2007/09/bsknees.jpg) Ben Stein is flashing some skin for the new Intelligent Design propaganda documentary film “Expelled.”
+![Ben Stein‚Äôs Knees](/uploads/2007/09/bsknees.jpg) Ben Stein is flashing some skin for the new Intelligent Design propaganda documentary film “Expelled.”
 
 He’s the film’s mascot and showman as evidenced by the movie’s [slick hyperbole filled website](https://www.expelledthemovie.com/home.php). With his bare knees, grotesquely enlarged head, and sour expression, Stein manages to permanently ruin the school uniform fetish for anyone who isn’t a 60 year old Nixon speech writer.
 

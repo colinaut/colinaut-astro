@@ -22,7 +22,7 @@ In case you haven’t heard we are planning another Tweed Ride on March 27th in 
 
 *The photo is of the J.D. as the fabulous Twettle, the Tweed Beetle by the excellent photographer* [*juicyrai*](https://www.flickr.com/photos/wink/4032897978/in/pool-sftweed)*.*
 
-[![East Bay Tweed Spring Ride, March 27th](https://catcubed.com/wp-content/uploads/2010/03/SF-EastTweed-Ride-March-2010-v2-med.jpg "East Bay Tweed Spring Ride, March 27th")](https://sftweed.com/20100320-east-bay-tweed-spring-ride-march-27th/)
+[![East Bay Tweed Spring Ride, March 27th](/uploads/2010/03/SF-EastTweed-Ride-March-2010-v2-med.jpg "East Bay Tweed Spring Ride, March 27th")](https://sftweed.com/20100320-east-bay-tweed-spring-ride-march-27th/)
 
 East Bay Tweed Spring Ride
 --------------------------

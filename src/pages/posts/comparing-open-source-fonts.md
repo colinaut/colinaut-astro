@@ -42,7 +42,7 @@ So now that the issue of web fonts is more or less solved, the next big issue is
 
 In practice this means that Windows users tend to think type on a Mac looks blurry and Mac users think that type on Windows looks jagged and crappy. Also, and more important is that a font needs to be hinted for Windows ClearType renderer or else at sizes under 20px it becomes ugly and often illegible at smaller sizes.
 
-For a more detailed breakdown of how fonts are rendered check out this awesome [font rendering chart](https://catcubed.com/wp-content/uploads/2010/05/aaaaaa_4787.png) by Miha.
+For a more detailed breakdown of how fonts are rendered check out this awesome [font rendering chart](/uploads/2010/05/aaaaaa_4787.png) by Miha.
 
 What does this mean for the typefaces in the Google Font Directory?
 -------------------------------------------------------------------

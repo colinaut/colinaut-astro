@@ -39,7 +39,7 @@ It’s obviously a 1.0 product but an amazing one at that. There are a few bugs 
 
 ### User Interface Issues
 
-![](https://catcubed.com/wp-content/uploads/2010/06/152307-trimimovie_original-300x199.jpg "Trim Movie")
+![](/uploads/2010/06/152307-trimimovie_original-300x199.jpg "Trim Movie")
 
 - Most of the interface icons are generic and meaningless. Even after several minutes of working with it I kept forgetting what each icon was. (*See example: I mean what the hell is the difference between the down arrow in the box and the one in the folder? The one in the box on the left is import and the one in the folder on the right switches you to the video camera so you can shoot a new clip—shouldn’t that icon be a video camera?!?)*
 - I kept having issues with accidentally hitting the wrong button or control as there are a lot of too small interface elements and other too elements that are too big for their limited importance. (*See example: not how close the trim icon is to the down arrow folder icon. I accidentally hit that folder icon several times while editing.*)

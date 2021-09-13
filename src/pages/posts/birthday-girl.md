@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 layout: '../../layouts/BlogPost.astro'
 id: 1441
-thumbnail: ../../../../../uploads/2013/03/birthday-girl.jpg
+thumbnail: /uploads/2013/03/birthday-girl.jpg
 category:
     - art
 tag: []

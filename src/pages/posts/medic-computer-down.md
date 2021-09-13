@@ -23,7 +23,7 @@ Been in self tech support hell lately. A couple weeks ago, a power outage switch
 
 Then just a couple days ago, my laptop froze up and then refused to boot again. I launched it in firewire target disk mode — which thankfully worked — attached it to Nifer’s machine, and backed up everything in my home folder to my external. Then I rebooted with a bootable DiskWarrior cd and set it to repair. This seemed to work. My machine booted, I immediately installed superduper and did a full clone of my laptop.
 
-The next day, it froze again. I ran DiskWarrior again and it repaired a couple useless permissions but that was about it. Interestingly, it would boot in safe mode fine, but normal boots always resulted in either a generic lockup or this lovely corrupt stack kernel panic message: [![Kernel Panic wrecks havoc](https://catcubed.com/wp-content/uploads/2007/11/img_0895-t.jpg)](https://catcubed.com/wp-content/uploads/2007/11/img_0895.jpg)
+The next day, it froze again. I ran DiskWarrior again and it repaired a couple useless permissions but that was about it. Interestingly, it would boot in safe mode fine, but normal boots always resulted in either a generic lockup or this lovely corrupt stack kernel panic message: [![Kernel Panic wrecks havoc](/uploads/2007/11/img_0895-t.jpg)](/uploads/2007/11/img_0895.jpg)
 
 Last night, I tried doing a fresh install of the operating system just in case. Unfortunately, the install process just errored out every time.
 

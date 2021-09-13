@@ -25,4 +25,4 @@ In light of the recent [Greanpeace health report on the iPhone](https://www.macw
 
 I am releasing this wallpaper to the world in order to do my part in saving us all from the iPhone health menace! By downloading and installing this image as the wallpaper of your iPhone, you’ll be proactively protecting the health of babies and lab rats everywhere!
 
-[![iPhone Health Warning Wallpaper](https://catcubed.com/wp-content/uploads/2007/10/iphone-health-warning.jpg)](https://catcubed.com/wp-content/uploads/2007/10/iphone-health-warning.jpg)
+[![iPhone Health Warning Wallpaper](/uploads/2007/10/iphone-health-warning.jpg)](/uploads/2007/10/iphone-health-warning.jpg)

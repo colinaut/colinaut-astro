@@ -20,7 +20,7 @@ tag:
     - 'urban golf'
 post_format: []
 ---
-[![Urban Golf](https://catcubed.com/wp-content/uploads/2007/04/crustationhead-tm.jpg)](https://catcubed.com/wp-content/uploads/2007/04/crustationhead.jpg)I’m still experimenting with blogging apps. This time posting with [Ecto](https://ecto.kung-foo.tv/). It’s rather nice though a bit complicated possibly for the average user — especially since I had to troubleshoot it. I do like how much control you have over the image code, which makes using my [wordpress lightbox plugin ](https://www.huddletogether.com/projects/lightbox2/)easy.
+[![Urban Golf](/uploads/2007/04/crustationhead-tm.jpg)](/uploads/2007/04/crustationhead.jpg)I’m still experimenting with blogging apps. This time posting with [Ecto](https://ecto.kung-foo.tv/). It’s rather nice though a bit complicated possibly for the average user — especially since I had to troubleshoot it. I do like how much control you have over the image code, which makes using my [wordpress lightbox plugin ](https://www.huddletogether.com/projects/lightbox2/)easy.
 
 I tested [MarsEdit](https://www.red-sweater.com/marsedit/) too which is much cleaner, but really only good if you want to post text only as adding images takes waaaaay too many steps. MarsEdit’s live preview is great as long as you know your way around html/css to set it up (which is strangely complicated considering that the rest of the app seems set up for the average user). On the opposite end of the spectrum is [Journler](https://journler.com/) which seems just plan convoluted looking.
 

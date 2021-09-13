@@ -21,4 +21,4 @@ image:
 ---
 I’m going to Wordcamp on Saturday. Maybe I’ll see some of you there. I”m mostly interested in track 2 of their schedule. Contemplating bringing CatCubed papercraft printouts to hand anyone who asks for a business card.
 
-[![](https://catcubed.com/wp-content/uploads/2010/04/wcsf-attending-l.png "Wordcamp SF May 1st 2010")](https://2010.sf.wordcamp.org)
+[![](/uploads/2010/04/wcsf-attending-l.png "Wordcamp SF May 1st 2010")](https://2010.sf.wordcamp.org)

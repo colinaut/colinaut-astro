@@ -31,6 +31,6 @@ If you are running [CeeBox 1.3.4](https://catcubed.com/stuff/ceebox-1.3.4.zip) a
 
 **Screenshot of it in operation (Note the next button which is the right side of the image is rolled over):**
 
-**![ceebox-snapshot](https://catcubed.com/wp-content/uploads/2009/10/ceebox-snapshot.jpg "ceebox-snapshot")**
+**![ceebox-snapshot](/uploads/2009/10/ceebox-snapshot.jpg "ceebox-snapshot")**
 
 I am also working on making a WordPress plugin out of this. Actually I did create a basic CeeBox wordpress plugin already but it is not ready for release.

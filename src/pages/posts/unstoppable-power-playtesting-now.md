@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 layout: '../../layouts/BlogPost.astro'
 id: 1602
-thumbnail: ../../../../../uploads/2015/02/Unstoppable-Power-v2-wide-banner.png
+thumbnail: /uploads/2015/02/Unstoppable-Power-v2-wide-banner.png
 category:
     - games
 tag: []
@@ -39,6 +39,6 @@ The game mechanics are pretty honed in — simple and designed to help support t
 
 <span data-reactid=".42.1:3:1:$comment452326328258304_452472604910343:0.0.$right.0.$left.0.0.1.$comment-body.0.3"><span data-reactid=".42.1:3:1:$comment452326328258304_452472604910343:0.0.$right.0.$left.0.0.1.$comment-body.0.3.0"><span data-reactid=".42.1:3:1:$comment452326328258304_452472604910343:0.0.$right.0.$left.0.0.1.$comment-body.0.3.0.$end:0:$4:0">There was a lot more detail I left out, but yeah that’s the kind of wow story you can tell with Unstoppable Power in only a single one-shot game!</span></span></span>
 
-[![Unstoppable-Power-v2](../../../../../uploads/2015/02/Unstoppable-Power-v2.png)](https://colinaut.com/wp-content/uploads/2015/02/Unstoppable-Power-v2.png)
+![Unstoppable-Power-v2](/uploads/2015/02/Unstoppable-Power-v2.png)
 
 </div>

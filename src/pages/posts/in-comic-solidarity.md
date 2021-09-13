@@ -31,4 +31,4 @@ Sadly, Westergaard’s life has been completely disrupted by this simple little 
 I thought I’d show my own support by posting the cartoon and add a bit of equal opportunity blasphemy with this classic by Serrano Andres.
 
 [  
-![Mohammed Bomb cartoon by Kurt Westergaard](https://catcubed.com/wp-content/uploads/2008/02/mohammed_bomb.jpg)](https://en.wikipedia.org/wiki/Mohammad_cartoon) [![Piss Christ by Serrano Andres (1987)](https://catcubed.com/wp-content/uploads/2008/02/piss_christ_by_serrano_andres_1987.jpg)](https://en.wikipedia.org/wiki/Piss_Christ)
+![Mohammed Bomb cartoon by Kurt Westergaard](/uploads/2008/02/mohammed_bomb.jpg)](https://en.wikipedia.org/wiki/Mohammad_cartoon) [![Piss Christ by Serrano Andres (1987)](/uploads/2008/02/piss_christ_by_serrano_andres_1987.jpg)](https://en.wikipedia.org/wiki/Piss_Christ)

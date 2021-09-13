@@ -32,7 +32,7 @@ In [Round I](https://catcubed.com/2007/07/20/sf-politics-in-the-21st-century/), 
 
 However, it seems that the judges missed something in their review: as it turns out, the Gavin Newsom campaign, Act Locally SF\*, has a [flickr account](https://www.flickr.com/photos/newsom2007/), and they have an active [YouTube campaign](https://www.youtube.com/user/GavinNewsom2007 "YouTube: Gavin Newsom 2007"). Mostly it’s just a bunch of long rambling unedited boring meetings, but I love his Pet Peeves on the Streets series!
 
-[![Newsom's got a mic!](https://catcubed.com/wp-content/uploads/2007/07/newsom_w_mic.jpg)](https://www.youtube.com/watch?v=ttoPI5UpRxE&mode=related&search=) The [Pet Peeves on the Streets video series](https://www.youtube.com/results?search_query=pet+peeves+on+the+street&search=) have Gavin Newsom himself interviewing random people on the [street](https://www.youtube.com/watch?v=ttoPI5UpRxE) and in [barbershops](https://www.youtube.com/watch?v=Fl5jZrn1Kr4&mode=related&search=) asking what their pet peeve is with San Francisco. The series is a few months old at this point, but they are a good attempt to reach out to people the way that this new social web is meant to. We need to see more campaign ideas like this.
+[![Newsom's got a mic!](/uploads/2007/07/newsom_w_mic.jpg)](https://www.youtube.com/watch?v=ttoPI5UpRxE&mode=related&search=) The [Pet Peeves on the Streets video series](https://www.youtube.com/results?search_query=pet+peeves+on+the+street&search=) have Gavin Newsom himself interviewing random people on the [street](https://www.youtube.com/watch?v=ttoPI5UpRxE) and in [barbershops](https://www.youtube.com/watch?v=Fl5jZrn1Kr4&mode=related&search=) asking what their pet peeve is with San Francisco. The series is a few months old at this point, but they are a good attempt to reach out to people the way that this new social web is meant to. We need to see more campaign ideas like this.
 
 So with this revelation, I gotta give the **YouTube Stardom** category over to Gavin Newsom, and I’d say the **Web 2.0 Social Aptitude** category is now a tie.
 
@@ -40,7 +40,7 @@ With this turnover, **Gavin Newsom** is now in the lead as the top 21st century 
 
 ### A scrappy new contender
 
-[![Josh Wolf in the sea of greeen](https://catcubed.com/wp-content/uploads/2007/07/joshwolf.jpg)](https://joshwolf.net/JoshWolf4Mayor/node/56) However, Gavin Newsom shouldn’t get too cocky. He only won that one by a nose and as Scott Beale of Laughing Squid [reports](https://laughingsquid.com/josh-wolf-for-mayor-of-san-francisco-website-launches/), Josh Wolf seems to be coming out with both guns blazing. He’s got a new blog, [Josh Wolf for Mayor](https://joshwolf.net/JoshWolf4Mayor/) and a [campaign video](https://joshwolf.net/JoshWolf4Mayor/node/56). The judges have yet to completely review but they did have this to say:
+[![Josh Wolf in the sea of greeen](/uploads/2007/07/joshwolf.jpg)](https://joshwolf.net/JoshWolf4Mayor/node/56) However, Gavin Newsom shouldn’t get too cocky. He only won that one by a nose and as Scott Beale of Laughing Squid [reports](https://laughingsquid.com/josh-wolf-for-mayor-of-san-francisco-website-launches/), Josh Wolf seems to be coming out with both guns blazing. He’s got a new blog, [Josh Wolf for Mayor](https://joshwolf.net/JoshWolf4Mayor/) and a [campaign video](https://joshwolf.net/JoshWolf4Mayor/node/56). The judges have yet to completely review but they did have this to say:
 
 > “Please please next time get a tripod and don’t ever sit in front of a nauseatingly bright greenscreen!!!”\*\*
 

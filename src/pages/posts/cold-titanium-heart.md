@@ -20,7 +20,7 @@ post_format: []
 aktt_notify_twitter:
     - 'no'
 ---
-[![Accept - Metal Heart](https://catcubed.com/wp-content/uploads/2007/08/metal-heart.jpg)](https://www.youtube.com/watch?v=lOp8Zz50f6U "Link to YouTube: Accept - Metal Heart (Live)") The Washington Post recently had an interesting article entitled, [His Heart Whirs Anew](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/11/AR2007081101390_pf.html), about a Peter Houghton, the first lifetime recipient of a Jarvik 2000 ventricular assist device (ie an artificial heart).
+[![Accept - Metal Heart](/uploads/2007/08/metal-heart.jpg)](https://www.youtube.com/watch?v=lOp8Zz50f6U "Link to YouTube: Accept - Metal Heart (Live)") The Washington Post recently had an interesting article entitled, [His Heart Whirs Anew](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/11/AR2007081101390_pf.html), about a Peter Houghton, the first lifetime recipient of a Jarvik 2000 ventricular assist device (ie an artificial heart).
 
 After being placed on the device, Peter Houghton has struggled with a deadening of his emotions. After reading this, my first reaction was: of course, now that his heart is just a whirring machine he no longer gets the quickening of the pulse of emotional arousal; thus, the sensory feedback is missing and he interprets this as a deadening of his emotions.
 

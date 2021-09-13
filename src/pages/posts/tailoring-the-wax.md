@@ -29,7 +29,7 @@ image:
 
 Really as much as I love the album—*and it is a damned good album*—I couldn’t let this abomination of fonts and filters be seen in my iTunes coverflow. Thus, I went and made my own alternative cover art as I promised in the previously mentioned tweet. I didn’t have to do much work since Wax Tailor already had a much better recent illustration out there to work from. All I did was pick a font—a ***single*** font—to used for the band/album name.
 
-[![Wax Tailor - in the mood for life (alt cover)](https://catcubed.com/wp-content/uploads/2009/11/wax-tailor-in-the-mood-for-life-alt-cover2.jpg "My alt cover for Wax Tailor - In the Mood for Life")](https://catcubed.com/wp-content/uploads/2009/11/wax-tailor-in-the-mood-for-life-alt-cover2.jpg)  
+[![Wax Tailor - in the mood for life (alt cover)](/uploads/2009/11/wax-tailor-in-the-mood-for-life-alt-cover2.jpg "My alt cover for Wax Tailor - In the Mood for Life")](/uploads/2009/11/wax-tailor-in-the-mood-for-life-alt-cover2.jpg)  
 I highly encourage everyone to buy the album but use the above cover art instead so as not to dirty their iTunes coverflow with bad photoshop.  
 <small>*All art is © Wax Tailor and has been modified without permission as a fan who likes his music but just hates the latest cover art.*</small>
 

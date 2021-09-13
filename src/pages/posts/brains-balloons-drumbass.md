@@ -19,7 +19,7 @@ post_format: []
 aktt_notify_twitter:
     - 'no'
 ---
-[![Critical Zombie Mass](https://catcubed.com/wp-content/uploads/2007/05/zombies10.thumbnail.jpg) ](https://catcubed.com/wp-content/uploads/2007/05/zombies10.jpg) Friday’s Zombie Mob was a rousing success! I went down to Justin Herman and road for a bit with Critical Mass then met up with the zombie horde. I tried to stop them with my bicycle, but I was overpowered by the terrifyingly ugly [Rubin zombie](https://www.mccullagh.org/photo/1ds-17/undead-terrify-san-francisco).
+[![Critical Zombie Mass](/uploads/2007/05/zombies10.thumbnail.jpg) ](/uploads/2007/05/zombies10.jpg) Friday’s Zombie Mob was a rousing success! I went down to Justin Herman and road for a bit with Critical Mass then met up with the zombie horde. I tried to stop them with my bicycle, but I was overpowered by the terrifyingly ugly [Rubin zombie](https://www.mccullagh.org/photo/1ds-17/undead-terrify-san-francisco).
 
 I had hoped that my bicycle helmet would protect me from their ferocious appetite for my cortex; however, as you can see from the photo they got past it’s defenses. My zombie alter-ego didn’t want to leave his bicycle but he had seemly lost all coordination and could only fall over the handlebars and walk it along.
 

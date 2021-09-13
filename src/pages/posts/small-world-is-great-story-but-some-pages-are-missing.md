@@ -24,7 +24,7 @@ image:
 ---
 *Review I posted on [Board Game Geek](https://www.boardgamegeek.com/thread/478892/small-world-is-great-story-but-some-pages-are-miss).*
 
-[![Small World](https://catcubed.com/wp-content/uploads/2009/12/pic428828.jpg "Small World")](https://catcubed.com/wp-content/uploads/2009/12/pic428828.jpg)I recently picked up the board game [Small World](https://www.boardgamegeek.com/boardgame/40692/small-world). It caught my eye while I was window shopping at [Games of Berkeley](https://www.gamesofberkeley.com/); upon getting home I immediately began reading reviews here. It seemed to be right up my alley, and it fit a niche in my game cabinet that wasn’t being filled: that of a fun simple war game—or as they say on BGG an “Area Control Game.”
+[![Small World](/uploads/2009/12/pic428828.jpg "Small World")](/uploads/2009/12/pic428828.jpg)I recently picked up the board game [Small World](https://www.boardgamegeek.com/boardgame/40692/small-world). It caught my eye while I was window shopping at [Games of Berkeley](https://www.gamesofberkeley.com/); upon getting home I immediately began reading reviews here. It seemed to be right up my alley, and it fit a niche in my game cabinet that wasn’t being filled: that of a fun simple war game—or as they say on BGG an “Area Control Game.”
 
 ### A Bit About Your Reviewer
 

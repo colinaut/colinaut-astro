@@ -21,7 +21,7 @@ I’m usually the prep cook not the cook in the house so I seldom post recipes. 
 Brandied Ginger Orange Cranberry Sauce
 --------------------------------------
 
-![](https://catcubed.com/wp-content/uploads/2010/11/photo-1-1024x764.jpg "Brandied Ginger Orange Cranberry Sauce")
+![](/uploads/2010/11/photo-1-1024x764.jpg "Brandied Ginger Orange Cranberry Sauce")
 
 - 4 oranges (used to create fresh orange zest and juice)
 - 1½ tablespoons of grated fresh ginger\*

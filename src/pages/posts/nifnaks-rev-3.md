@@ -28,7 +28,7 @@ With just a little fanfare, I happily announce the…
 
 ### Grand Reopening of [NifNaks.com](https://nifnaks.com)!
 
-[![NifNaks](https://catcubed.com/wp-content/uploads/2007/08/storelogopic.png)](https://nifnaks.com)
+[![NifNaks](/uploads/2007/08/storelogopic.png)](https://nifnaks.com)
 
 It works, it’s got products, it accepts credit cards, and I’m happy with the design. Yay!
 

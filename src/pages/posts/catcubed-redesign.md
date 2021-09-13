@@ -25,7 +25,7 @@ image:
 ---
 I’ve been inspired… and I have a long weekend, which means that I’ve spent the last couple days buried in my laptop. My back aches, my eyes are screen burned, but nothing stops the freight train called inspiration.
 
-[![Cube The Cat](https://catcubed.com/wp-content/uploads/2009/11/cube-the-cat.png "Cube The Cat")](/stuff/catcubed-papercraft.pdf)I give you the new and improved [CatCubed.com](https://catcubed.com)! Also, I’m releasing **Mr. Cube the Cat** as an adorable papercraft doll that you can make yourself! Like the new version of the site, he’s still in beta but he’s stable and I’m releasing him into the world anyway!
+[![Cube The Cat](/uploads/2009/11/cube-the-cat.png "Cube The Cat")](/stuff/catcubed-papercraft.pdf)I give you the new and improved [CatCubed.com](https://catcubed.com)! Also, I’m releasing **Mr. Cube the Cat** as an adorable papercraft doll that you can make yourself! Like the new version of the site, he’s still in beta but he’s stable and I’m releasing him into the world anyway!
 
 Download the **[Cube the Cat, papercraft](/stuff/catcubed-papercraft.pdf) PDF** (version 0.6 beta).
 

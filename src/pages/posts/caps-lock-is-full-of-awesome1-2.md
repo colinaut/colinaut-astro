@@ -17,7 +17,7 @@ post_format: []
 aktt_notify_twitter:
     - 'no'
 ---
-<div> [![Caps-Lock is FULL OF AWESOME!!1!](https://catcubed.com/wp-content/uploads/2007/10/caps-lock-is-awesome-sml.jpg)](https://catcubed.com/2007/10/04/caps-lock-is-full-of-awesome1-2/caps-lock-is-full-of-awesome1/ "Caps-Lock is FULL OF AWESOME!!1!")  
+<div> [![Caps-Lock is FULL OF AWESOME!!1!](/uploads/2007/10/caps-lock-is-awesome-sml.jpg)](https://catcubed.com/2007/10/04/caps-lock-is-full-of-awesome1-2/caps-lock-is-full-of-awesome1/ "Caps-Lock is FULL OF AWESOME!!1!")  
  <span style="font-size: 0.9em; margin-top: 0px;">[Caps-Lock is FULL OF AWESOME!!1!](https://www.flickr.com/photos/headlouse/1484615917/)  
  Originally uploaded by [catcubed](https://www.flickr.com/people/headlouse/)  
  </span></div>IF U DON’T GET TEH JOKE, YOUR A TARD WHO DON’T READ TEH AWESOME COMMENTS ON YOUTUBE OR DIGG!!!!

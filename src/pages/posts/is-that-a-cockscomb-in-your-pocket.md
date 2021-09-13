@@ -21,7 +21,7 @@ post_format: []
 aktt_notify_twitter:
     - 'no'
 ---
-![Court Jester](https://catcubed.com/wp-content/uploads/2007/05/jester.jpg) Great [interview with Al Gore on the Daily Show](https://onegoodmove.org/1gm/1gmarchive/2007/05/al_gore_1.html). My favorite part is how he compared John Stewart to the jesters in the Middle Ages who were the only ones who could speak the truth without getting their heads choped off.
+![Court Jester](/uploads/2007/05/jester.jpg) Great [interview with Al Gore on the Daily Show](https://onegoodmove.org/1gm/1gmarchive/2007/05/al_gore_1.html). My favorite part is how he compared John Stewart to the jesters in the Middle Ages who were the only ones who could speak the truth without getting their heads choped off.
 
 It’s an interesting analogy. The concept of a jester actually has origins before the middle ages, but mostly people’s impression of one comes from the romanticized Middle Ages. Wikipedia has the following to say about [jesters](https://en.wikipedia.org/wiki/Jester):
 

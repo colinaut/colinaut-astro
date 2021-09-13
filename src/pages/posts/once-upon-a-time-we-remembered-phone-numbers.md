@@ -27,7 +27,7 @@ image:
 > 
 > …Now, after a few years of this, I realize that when I look up from the screen I know almost nothing. And maybe that would be fine if the absent phone numbers and upcoming dates were freeing space for deeper and more introspective thought.”
 
-![telephone dial](https://catcubed.com/wp-content/uploads/2010/03/telephonedial.jpg "telephone dial") While the picture he paints is engaging and on the face of it convincing, he needs to get off the hyperbole horse. Seriously, think about it, how many phone numbers, addresses, birthdates, etc. did you use to remember?
+![telephone dial](/uploads/2010/03/telephonedial.jpg "telephone dial") While the picture he paints is engaging and on the face of it convincing, he needs to get off the hyperbole horse. Seriously, think about it, how many phone numbers, addresses, birthdates, etc. did you use to remember?
 
 Personally, I never had more than 3-5 phone numbers memorized at a time, but then again why would I have to? Pre-cellphone, the only place I’d normally make calls is from home where I had my address book; if I was out and about usually the only number I ever called was home. It’s only since the invention of the cellphone, where every single person we know has a phone number and we call people all the time from anywhere, that we need to have phone numbers with us at all times.
 

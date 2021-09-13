@@ -33,6 +33,6 @@ Everyone should know the tale of the Great Arkham Christmas Tree Disappearance! 
 > 
 > The Flying Spaghetti Monster wasn’t done however for Arkham’s homes were still missing their trees. So with just the flick of a spaghetti tentacle, a tree materialized in every home in Arkham, and every tree was even bigger and more beautiful than before!
 
-[![Flying Spaghetti Monster & Cthuthlu Christmas Tree Ornaments](https://catcubed.com/wp-content/uploads/2007/12/ornchtfsmtree.jpg)](https://www.nifnaks.com/creations-shop/christmas/ "NifNaks: Flying Spaghetti Monster & Cthuthlu Christmas Tree Ornaments")
+[![Flying Spaghetti Monster & Cthuthlu Christmas Tree Ornaments](/uploads/2007/12/ornchtfsmtree.jpg)](https://www.nifnaks.com/creations-shop/christmas/ "NifNaks: Flying Spaghetti Monster & Cthuthlu Christmas Tree Ornaments")
 
 You too can decorate your yule tree like the townsfolk in Arkham! [NifNaks](https://www.nifnaks.com) makes Traditional wool [Flying Spaghetti Monsters](https://www.nifnaks.com/creations-shop/christmas/flying-spaghetti-monster-tree-ornament/detailed-product-flyer.html) and [Chuthlu Ornaments](https://www.nifnaks.com/creations-shop/christmas/cthulhu-tree-ornament/detailed-product-flyer.html).

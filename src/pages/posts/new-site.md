@@ -8,7 +8,7 @@ excerpt: ''
 type: post
 layout: '../../layouts/BlogPost.astro'
 id: 1547
-thumbnail: ../../../../../uploads/2013/11/new-banner1.jpg
+thumbnail: /uploads/2013/11/new-banner1.jpg
 category:
     - design
     - uncategorized
