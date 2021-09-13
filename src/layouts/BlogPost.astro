@@ -1,7 +1,6 @@
 ---
 import { Markdown } from 'astro/components';
 import BaseHead from '../components/BaseHead.astro';
-import BlogHeader from '../components/BlogHeader.astro';
 import BlogPost from '../components/BlogPost.astro';
 
 const {content} = Astro.props;
@@ -14,10 +13,17 @@ const {title, description, publishDate, author, heroImage, permalink, alt} = con
   </head>
 
   <body>
-    <BlogHeader />
-    <BlogPost title={title} author={author} heroImage={heroImage} publishDate={publishDate} alt={alt}>
-      <slot />
-    </BlogPost>
+    <div class="grid max-w-screen-xl mx-auto sm:grid-cols-2">
+      <div class="py-base">
+        <a href="/"><img src="/assets/portrait-lg.jpg" alt="Illustration of me"></a>
+      </div>
+      <div class="px-6 py-md">
+          <BlogPost title={title} author={author} heroImage={heroImage} publishDate={publishDate} alt={alt}>
+            <slot />
+          </BlogPost>
+          <div><a class="underline" href="/blog">Back to Blog</a></div>
+      </div>
+    </div>
   </body>
 </html>
 

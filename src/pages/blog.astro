@@ -8,9 +8,14 @@ import BlogPostPreview from '../components/BlogPostPreview.astro';
 // You can write any JavaScript/TypeScript that you'd like here.
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
-let title = 'Colinaut';
-let description = "Artist, designer (print/web/branding/XD/games), and front-of-the-full-stack-ish developer. My life is full of creative shenanigans. My friends are rad. (he/him)";
-let permalink = 'https://www.colinaut.com/';
+let title = 'Colinaut Blog';
+let description = "Yee old blog";
+let permalink = 'https://www.colinaut.com/blog';
+
+// Data Fetching: List all Markdown posts in the repo.
+let allPosts = Astro.fetchContent('./posts/*.md');
+// console.log(allPosts)
+allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
 
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
@@ -28,10 +33,10 @@ let permalink = 'https://www.colinaut.com/';
       </div>
       <article class="px-6 py-md">
           <h1 class="text-4xl font-bold text-wine-700 mb-base">{title}</h1>
-          <div class="prose">
-            <p>{description}</p>
-            <p><a href="/blog">Blog</a></p>
-          </div>
+          <div class="prose"><p>{description}</p></div>
+        <section class="my-base">
+          {allPosts.map(p => <BlogPostPreview post={p} />)}
+        </section>
       </article>
     </div>
   </body>

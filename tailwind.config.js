@@ -90,5 +90,9 @@ module.exports = {
             spacing: scale,
             colors: colors
         }
-    }
+    },
+    plugins: [
+      require('@tailwindcss/typography'),
+      // ...
+    ],
 };

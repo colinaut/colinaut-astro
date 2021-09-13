@@ -1,14 +1,16 @@
 ---
+import dayjs from 'dayjs'
+
 export interface Props {
   post: any;
 }
 
 const { post } = Astro.props;
 ---
-<article class="post-preview">
+<article class="pb-base">
   <header>
-    <h3 class="publish-date">{post.publishDate}</h3>
-    <a href={post.url}><h1 class="text-seafoam-700 text-3xl font-bold">{post.title}</h1></a>
+    <a href={post.url}><h1 class="text-3xl font-bold text-seafoam-700">{post.title}</h1></a>
+    <h3 class="text-lg">{dayjs(post.date).format('MMM D YYYY')}</h3>
   </header>
   <main>
     <p>{post.description}</p>
@@ -19,12 +21,6 @@ const { post } = Astro.props;
 <style>
 .content :global(main > * + *) {
   margin-top: 1rem;
-}
-
-.post-preview {
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
-  border-bottom: 4px solid var(--theme-divider);
 }
 
 header {
