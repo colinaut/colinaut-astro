@@ -23,7 +23,8 @@ aktt_notify_twitter:
 image:
     - ''
 ---
-[![Balsa Man on fire! I mean really on fire! Look out! Photo by romzelino](/uploads/2008/09/romzelino.JPG "Balsa Man on fire! I mean really on fire! Look out! Photo by romzelino")](https://www.flickr.com/photos/57588753@N00/2815815239/in/set-72157607050269333/).
+<!-- TODO: fix this image -->
+<!-- [![Balsa Man on fire! I mean really on fire! Look out! Photo by romzelino](/uploads/2008/09/romzelino.JPG "Balsa Man on fire! I mean really on fire! Look out! Photo by romzelino")](https://www.flickr.com/photos/57588753@N00/2815815239/in/set-72157607050269333/). -->
 
  More pictures and video are starting to surface on the internet from Balsa Man 2008. I’ve created a [Balsa Man 2008 Flickr group](https://www.flickr.com/groups/balsaman2008) to collect all the best shots from the event
 
