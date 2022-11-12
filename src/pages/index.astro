@@ -1,41 +1,54 @@
 ---
 // Component Imports
-import BaseHead from '../components/BaseHead.astro';
-import BlogHeader from '../components/BlogHeader.astro';
-import BlogPostPreview from '../components/BlogPostPreview.astro';
+import BaseHead from "../components/BaseHead.astro";
+import BlogHeader from "../components/BlogHeader.astro";
+import BlogPostPreview from "../components/BlogPostPreview.astro";
 
 // Component Script:
 // You can write any JavaScript/TypeScript that you'd like here.
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
-let title = 'Colinaut';
-let description = "I'm an artist, designer (print/web/branding/XD/games), and front-of-the-full-stack-ish developer. My life is full of creative shenanigans. My friends are rad. (he/him)";
-let permalink = 'https://www.colinaut.com/';
+let title = "Colinaut";
+let description =
+  "I'm an artist, designer (print/web/branding/XD/games), and front-of-the-full-stack-ish developer. My life is full of creative shenanigans. My friends are rad. (he/him)";
+let permalink = "https://www.colinaut.com/";
 
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
 ---
+
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} permalink={permalink} />
-    <link rel="stylesheet" type="text/css" href={Astro.resolve("../styles/global.css")}>
+    <link rel="stylesheet" type="text/css" href={Astro.resolve("../styles/global.css")} />
   </head>
 
   <body class="">
     <div class="grid max-w-screen-xl mx-auto sm:grid-cols-2">
       <div class="py-base">
-        <a href="/"><img src="/assets/portrait-lg.jpg" alt="Illustration of me"></a>
+        <a href="/"><img src="/assets/portrait-lg.jpg" alt="Illustration of me" /></a>
       </div>
       <article class="px-6 py-md">
-          <h1 class="text-4xl font-bold text-wine-700 mb-base">{title}</h1>
-          <div class="prose">
-            <p>{description}</p>
-            <p>Not much to show at the moment, as this site is currently being rebuilt. I've ripped all the content out of my old Wordpress site and am currently rebuilding it in <a href="https://astro.build">Astro</a>.</p> 
-            <p>You can follow me on twitter <a href="https://twitter.com/colinaut">@colinaut</a></p>
-            <p>You can find my game design stuff at <a href="https://www.mirthpeddlers.com">Mirth Peddlers</a>.</p> 
-            <p>This site used to have a portfolio of my web design, logo design, medical and technical illustration, and a cocktail list. I'm planning on adding the portfolio back once I have updated it. Also for postaerity the cocktail list will be there too though I don't make cocktails as much lately.</p>
-            <p>You can find my old dusty blog posts at <a href="/blog">Ye Old Blog</a>. Probably not a lot relavent here as the last blog post I wrote was in 2015. Not sure if I will start blogging again here or not.</p>
-          </div>
+        <h1 class="text-4xl font-bold text-wine-700 mb-base">{title}</h1>
+        <div class="prose">
+          <p>{description}</p>
+          <p>
+            Not much to show at the moment, as this site is currently being rebuilt. I've ripped all the content out of
+            my old Wordpress site and am currently rebuilding it in <a href="https://astro.build">Astro</a>.
+          </p>
+          <p>You can follow me on twitter <a href="https://twitter.com/colinaut">@colinaut</a></p>
+          <p>You can follow me on mastodon <a href="https://dice.camp/@colinaut">@colinaut@dice.camp</a></p>
+          <p>You can find my game design stuff at <a href="https://www.mirthpeddlers.com">Mirth Peddlers</a>.</p>
+          <p>
+            This site used to have a portfolio of my web design, logo design, medical and technical illustration, and a
+            cocktail list. I'm planning on adding the portfolio back once I have updated it. Also for postaerity the
+            cocktail list will be there too though I don't make cocktails as much lately.
+          </p>
+          <p>
+            You can find my old dusty blog posts at <a href="/blog">Ye Old Blog</a>. Probably not a lot relavent here as
+            the last blog post I wrote was in 2015. Not sure if I will start blogging again here or not.
+          </p>
+        </div>
       </article>
     </div>
   </body>
