@@ -9,4 +9,6 @@
     font-size: clamp(1rem, 0.9rem + 0.49vw, 1.25rem);
     /* Safari Resize fix */
     min-height: 1vw;
+
+    font-family: museo-slab, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
 }
