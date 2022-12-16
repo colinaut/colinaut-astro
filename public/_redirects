@@ -16,3 +16,5 @@
 /2019/:month/:day/:slug /posts/:slug
 /2020/:month/:day/:slug /posts/:slug
 /2021/:month/:day/:slug /posts/:slug
+
+/mastodon https://dice.camp/@colinaut
