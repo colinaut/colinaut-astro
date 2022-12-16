@@ -1,0 +1,39 @@
+---
+// Component Imports
+import BaseHead from "../components/BaseHead.astro";
+import BlogHeader from "../components/BlogHeader.astro";
+import BlogPostPreview from "../components/BlogPostPreview.astro";
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+let title = "Colinaut";
+let description =
+  "I wear a lot of hats… artist, medical/technical illustrator, and designer with experience in print, branding, XD, game design, and web design; and I am a frontend fullstack-ish web developer. My life is full of creativity. My friends are rad. (he/him)";
+let permalink = "https://www.colinaut.com/";
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} permalink={permalink} />
+    <meta http-equiv="Refresh" content="0; url='https://dice.camp/@colinaut'" />
+    <link rel="stylesheet" type="text/css" href={Astro.resolve("../styles/global.css")} />
+  </head>
+
+  <body class="">
+    <article class="px-6 py-md">
+      <div class="mx-auto prose">
+        <p>You can follow me on Mastodon <a href="https://dice.camp/@colinaut" rel="me">@colinaut@dice.camp</a></p>
+        <p>
+          I've quit using Twitter — for reasons. You can find all my tweets on my <a href="https://twitter.colinaut.com"
+            >@colinuat Twitter Archive</a
+          > (built thanks to <a href="https://github.com/tweetback">Tweetback</a>)
+        </p>
+      </div>
+    </article>
+  </body>
+</html>
