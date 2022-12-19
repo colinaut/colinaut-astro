@@ -16,3 +16,7 @@
 /2019/:month/:day/:slug /posts/:slug
 /2020/:month/:day/:slug /posts/:slug
 /2021/:month/:day/:slug /posts/:slug
+
+# Redirect all mastodons to my dice.camp instance via https://www.hawksworx.com/blog/alias-your-mastodon-username-to-your-domain-with-one-netlify-config-setting/
+
+/.well-known/webfinger https://dice.camp/.well-known/webfinger?resource=acct:colinaut@dice.camp
